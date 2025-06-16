@@ -27,5 +27,5 @@ for ticker in tqdm(df["Ticker"].tolist()):
 df["Yahoo Name"] = data
 
 # Save as CSV
-df.to_csv("../csv/sp500_secmaster.csv", index=False)
+df.to_csv("csv/sp500_secmaster.csv", index=False)
 print("Saved sp500_secmaster.csv with metadata.")

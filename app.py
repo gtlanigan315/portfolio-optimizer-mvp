@@ -45,18 +45,26 @@ def get_return_cov_matrix(price_data):
 mu, S = get_return_cov_matrix(price_data)
 
 # Portfolio type selection
-portfolio_type = st.selectbox("What type of portfolio are you building?", [
-    "Emergency Fund", "Income", "Balanced", "Growth", "Aggressive"
+persona = st.selectbox("Choose your investor persona", [
+    "Growth-Seeking Millennial",
+    "Conservative Near-Retiree",
+    "Global Diversifier",
+    "Income-Focused Retiree",
+    "529 College Saver",
+    "Custom"
 ])
 
+
 # Map portfolio types to volatility floors and default max weights
-vol_floor = {
-    "Emergency Fund": 0.00,
-    "Income": 0.05,
-    "Balanced": 0.08,
-    "Growth": 0.12,
-    "Aggressive": 0.20
-}[portfolio_type]
+persona_settings = {
+    "Growth-Seeking Millennial": {"target_vol": 0.16, "intl_bias": 0.1, "bond_max": 0.2},
+    "Conservative Near-Retiree": {"target_vol": 0.07, "intl_bias": 0.2, "bond_max": 0.6},
+    "Global Diversifier": {"target_vol": 0.10, "intl_bias": 0.4, "bond_max": 0.3},
+    "Income-Focused Retiree": {"target_vol": 0.06, "intl_bias": 0.1, "bond_max": 0.7},
+    "529 College Saver": {"target_vol": 0.08, "intl_bias": 0.2, "bond_max": 0.5},
+    "Custom": {}
+}
+
 
 default_max_weight = {
     "Emergency Fund": 1.0,
