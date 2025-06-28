@@ -1,0 +1,159 @@
+Symbol,Name,Category,Sector,Region
+SPY,SPDR S&P 500 ETF,Equity,Broad,US
+QQQ,Invesco QQQ Trust,Equity,Technology,US
+VTI,Vanguard Total Stock Market Index Fund ETF Shares,Equity,Broad,US
+TLT,iShares 20+ Year Treasury Bond ETF,Bond,,US
+GLD,SPDR Gold Shares,Commodity,,Global
+IWM,iShares Russell 2000 ETF,Equity,Small Cap,US
+BND,Vanguard Total Bond Market Index Fund,Bond,,US
+IVV,iShares Core S&P 500 ETF,Equity,Broad,US
+EFA,iShares MSCI EAFE ETF,Equity,Broad,International
+VNQ,Vanguard Real Estate Index Fund ETF Shares,REIT,Real Estate,US
+XLF,The Financial Select Sector SPDR Fund,Equity,Financials,US
+XLK,The Technology Select Sector SPDR Fund,Equity,Technology,US
+XLY,The Consumer Discretionary Select Sector SPDR Fund,Equity,Consumer Discretionary,US
+XLV,The Health Care Select Sector SPDR Fund,Equity,Healthcare,US
+XLI,The Industrial Select Sector SPDR Fund,Equity,Industrials,US
+XLE,The Energy Select Sector SPDR Fund,Equity,Energy,US
+XLB,The Materials Select Sector SPDR Fund,Equity,Materials,US
+XLU,The Utilities Select Sector SPDR Fund,Equity,Utilities,US
+XLC,The Communication Services Select Sector SPDR ETF Fund,Equity,Communication Services,US
+XBI,SPDR S&P Biotech ETF,Equity,Biotechnology,US
+ARKK,ARK Innovation ETF,Thematic,Innovation,US
+DIA,SPDR Dow Jones Industrial Average ETF Trust,Equity,Broad,US
+VEA,Vanguard FTSE Developed Markets Index Fund ETF Shares,Equity,Broad,International
+VWO,Vanguard Emerging Markets Stock Index Fund,Equity,Broad,International
+EEM,iShares MSCI Emerging Markets ETF,Equity,Broad,International
+EWW,iShares MSCI Mexico ETF,Equity,Country,International
+EWJ,iShares MSCI Japan ETF,Equity,Country,International
+EWG,iShares MSCI Germany ETF,Equity,Country,International
+FXI,iShares China Large-Cap ETF,Equity,Country,International
+GDX,VanEck Gold Miners ETF,Equity,Materials,Global
+GDXJ,VanEck Junior Gold Miners ETF,Equity,Materials,Global
+SLV,iShares Silver Trust,Commodity,,Global
+USO,United States Oil Fund, LP,Commodity,,US
+UNG,United States Natural Gas Fund, LP,Commodity,,US
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Bond,,US
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Bond,,US
+SHY,iShares 1-3 Year Treasury Bond ETF,Bond,,US
+IEF,iShares 7-10 Year Treasury Bond ETF,Bond,,US
+TLH,iShares 10-20 Year Treasury Bond ETF,Bond,,US
+TIP,iShares TIPS Bond ETF,Bond,,US
+AGG,iShares Core U.S. Aggregate Bond ETF,Bond,,US
+MUB,iShares National Muni Bond ETF,Bond,,US
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF,Bond,,US
+BSV,Vanguard Short-Term Bond Index Fund ETF Shares,Bond,,US
+BNDX,Vanguard Total International Bond Index Fund,Bond,,International
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Bond,,International
+VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares,Bond,,US
+VCSH,Vanguard Short-Term Corporate Bond Index Fund ETF Shares,Bond,,US
+VGLT,Vanguard Long-Term Treasury Index Fund ETF Shares,Bond,,US
+VGIT,Vanguard Intermediate-Term Treasury Index Fund ETF Shares,Bond,,US
+VGSH,Vanguard Short-Term Treasury Index Fund ETF Shares,Bond,,US
+VOO,Vanguard S&P 500 ETF,Equity,Broad,US
+VUG,Vanguard Growth Index Fund ETF Shares,Equity,Growth,US
+VTV,Vanguard Value Index Fund ETF Shares,Equity,Value,US
+VO,Vanguard Mid-Cap Index Fund ETF Shares,Equity,Mid Cap,US
+VB,Vanguard Small-Cap Index Fund ETF Shares,Equity,Small Cap,US
+VBR,Vanguard Small-Cap Value Index Fund ETF Shares,Equity,Small Cap,US
+VTWO,Vanguard Russell 2000 Index Fund ETF Shares,Equity,Small Cap,US
+VTIAX,Vanguard Total Intl Stock Index Admiral,Equity,Broad,International
+VXUS,Vanguard Total International Stock Index Fund ETF Shares,Equity,Broad,International
+SCHB,Schwab U.S. Broad Market ETF,Equity,Broad,US
+SCHX,Schwab U.S. Large-Cap ETF,Equity,Large Cap,US
+SCHA,Schwab U.S. Small-Cap ETF,Equity,Small Cap,US
+SCHD,Schwab U.S. Dividend Equity ETF,Equity,Dividend,US
+SCHF,Schwab International Equity ETF,Equity,Broad,International
+SCHE,Schwab Emerging Markets Equity ETF,Equity,Broad,International
+SCHP,Schwab U.S. TIPS ETF,Bond,,US
+SCHO,Schwab Short-Term U.S. Treasury ETF,Bond,,US
+SPSM,SPDR Portfolio S&P 600 Small Cap ETF,Equity,Small Cap,US
+SPLG,SPDR Portfolio S&P 500 ETF,Equity,Broad,US
+SPLV,Invesco S&P 500 Low Volatility ETF,Equity,Low Volatility,US
+SPYG,SPDR Portfolio S&P 500 Growth ETF,Equity,Growth,US
+SPYV,SPDR Portfolio S&P 500 Value ETF,Equity,Value,US
+RSP,Invesco S&P 500 Equal Weight ETF,Equity,Broad,US
+IVOO,Vanguard S&P Mid-Cap 400 Index Fund ETF Shares,Equity,Mid Cap,US
+IJR,iShares Core S&P Small-Cap ETF,Equity,Small Cap,US
+IJS,iShares S&P Small-Cap 600 Value ETF,Equity,Small Cap,US
+IJH,iShares Core S&P Mid-Cap ETF,Equity,Mid Cap,US
+IWR,iShares Russell Mid-Cap ETF,Equity,Mid Cap,US
+IWF,iShares Russell 1000 Growth ETF,Equity,Growth,US
+IWD,iShares Russell 1000 Value ETF,Equity,Value,US
+IWB,iShares Russell 1000 ETF,Equity,Broad,US
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,Equity,Broad,US
+MTUM,iShares MSCI USA Momentum Factor ETF,Equity,Momentum,US
+QUAL,iShares MSCI USA Quality Factor ETF,Equity,Quality,US
+USMV,iShares MSCI USA Min Vol Factor ETF,Equity,Low Volatility,US
+VYM,Vanguard High Dividend Yield Index Fund ETF Shares,Equity,Dividend,US
+HDV,iShares Core High Dividend ETF,Equity,Dividend,US
+DVY,iShares Select Dividend ETF,Equity,Dividend,US
+SDY,SPDR S&P Dividend ETF,Equity,Dividend,US
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF,Equity,Dividend,US
+PFF,iShares Preferred and Income Securities ETF,Preferred,,US
+SCHH,Schwab U.S. REIT ETF,REIT,Real Estate,US
+VNQI,Vanguard Global ex-U.S. Real Estate Index Fund ETF Shares,REIT,Real Estate,International
+REET,iShares Global REIT ETF,REIT,Real Estate,Global
+REM,iShares Mortgage Real Estate Capped ETF,REIT,Real Estate,US
+FREL,Fidelity MSCI Real Estate Index ETF,REIT,Real Estate,US
+IYR,iShares U.S. Real Estate ETF,REIT,Real Estate,US
+RWR,SPDR Dow Jones REIT ETF,REIT,Real Estate,US
+XLRE,The Real Estate Select Sector SPDR Fund,REIT,Real Estate,US
+PSR,Invesco Active U.S. Real Estate Fund,REIT,Real Estate,US
+ICF,iShares Select U.S. REIT ETF,REIT,Real Estate,US
+RWX,SPDR Dow Jones International Real Estate ETF,REIT,Real Estate,International
+FTEC,Fidelity MSCI Information Technology Index ETF,Equity,Technology,US
+IYW,iShares U.S. Technology ETF,Equity,Technology,US
+IXN,iShares Global Tech ETF,Equity,Technology,Global
+SOXX,iShares Semiconductor ETF,Equity,Technology,US
+SMH,VanEck Semiconductor ETF,Equity,Technology,US
+XSD,SPDR S&P Semiconductor ETF,Equity,Technology,US
+FBCG,Fidelity Blue Chip Growth ETF,Equity,Growth,US
+ARKW,ARK Next Generation Internet ETF,Thematic,Internet,US
+ARKF,ARK Fintech Innovation ETF,Thematic,Fintech,US
+ARKG,ARK Genomic Revolution ETF,Thematic,Healthcare,US
+ARKQ,ARK Autonomous Technology & Robotics ETF,Thematic,Technology,US
+PRNT,The 3D Printing ETF,Thematic,Technology,US
+ROBO,Robo Global Robotics and Automation Index ETF,Thematic,Technology,Global
+BOTZ,Global X Robotics & Artificial Intelligence ETF,Thematic,Technology,Global
+HACK,Amplify Cybersecurity ETF,Thematic,Technology,US
+CIBR,First Trust NASDAQ Cybersecurity ETF,Thematic,Technology,US
+SKYY,First Trust Cloud Computing ETF,Thematic,Technology,US
+FIVG,Defiance Connective Technologies ETF,Thematic,Technology,US
+IBB,iShares Biotechnology ETF,Equity,Biotechnology,US
+XHE,SPDR S&P Health Care Equipment ETF,Equity,Healthcare,US
+XHS,SPDR S&P Health Care Services ETF,Equity,Healthcare,US
+XPH,SPDR S&P Pharmaceuticals ETF,Equity,Healthcare,US
+XAR,SPDR S&P Aerospace & Defense ETF,Equity,Industrials,US
+ITA,iShares U.S. Aerospace & Defense ETF,Equity,Industrials,US
+XME,SPDR S&P Metals and Mining ETF,Equity,Materials,US
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,Equity,Energy,US
+OIH,VanEck Oil Services ETF,Equity,Energy,US
+KBE,SPDR S&P Bank ETF,Equity,Financials,US
+KRE,SPDR S&P Regional Banking ETF,Equity,Financials,US
+IAT,iShares U.S. Regional Banks ETF,Equity,Financials,US
+IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,Equity,Financials,US
+IGV,iShares Expanded Tech-Software Sector ETF,Equity,Technology,US
+XSW,SPDR S&P Software & Services ETF,Equity,Technology,US
+FDN,First Trust Dow Jones Internet Index Fund,Equity,Technology,US
+PNQI,Invesco NASDAQ Internet ETF,Equity,Technology,US
+BJK,VanEck Gaming ETF,Equity,Consumer Discretionary,US
+BETZ,Roundhill Sports Betting & iGaming ETF,Equity,Consumer Discretionary,US
+MJ,Amplify Alternative Harvest ETF,Thematic,Cannabis,US
+YOLO,AdvisorShares Pure Cannabis ETF,Thematic,Cannabis,US
+TOKE,Cambria Cannabis ETF,Thematic,Cannabis,US
+CNBS,Amplify Seymour Cannabis ETF,Thematic,Cannabis,US
+UFO,Procure Space ETF,Thematic,Space,Global
+ESPO,VanEck Video Gaming and eSports ETF,Thematic,Technology,Global
+NERD,Roundhill Video Games ETF,Thematic,Technology,Global
+ECLN,First Trust EIP Carbon Impact ETF,Thematic,Clean Energy,Global
+ICLN,iShares Global Clean Energy ETF,Clean Energy,Clean Energy,Global
+PBW,Invesco WilderHill Clean Energy ETF,Clean Energy,Clean Energy,US
+TAN,Invesco Solar ETF,Clean Energy,Solar,US
+FAN,First Trust Global Wind Energy ETF,Clean Energy,Wind,Global
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,Clean Energy,Clean Energy,US
+CRAK,VanEck Oil Refiners ETF,Equity,Energy,Global
+FRAK,VanEck Vectors Unconventional Oil & Gas ETF,Equity,Energy,US
+XLFV,,Equity,Financials,US
+FREL,Fidelity MSCI Real Estate Index ETF,REIT,Real Estate,US
+FNCL,Fidelity MSCI Financials Index ETF,Equity,Financials,US
